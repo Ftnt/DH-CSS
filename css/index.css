@@ -72,8 +72,8 @@ dl dd{
 
 .lista{
   padding-bottom: 20px;
-  list-style: inside;
-  margin: 20px;
+  list-style: inside !important;
+  margin: 20px !important;
 }
 
 .lista li{
