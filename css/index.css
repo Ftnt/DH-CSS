@@ -3,10 +3,6 @@ body {
   padding: 0;
 }
 
-ul{
-  list-style: inside;
-  margin: 20px;
-}
 
 dl{
   margin: 1.5rem;
@@ -76,6 +72,8 @@ dl dd{
 
 .lista{
   padding-bottom: 20px;
+  list-style: inside;
+  margin: 20px;
 }
 
 .lista li{
